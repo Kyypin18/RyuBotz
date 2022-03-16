@@ -1,5 +1,5 @@
 exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWit) => {
-	return`Jangan Lupa Donasi
+	return`Byy wa.me/6285798471564
 
 ╭─ ✾「 𝐓𝐎 𝐃𝐀𝐘 」✾
 │➸ 𝙐𝙘𝙖𝙥𝙖𝙣 : ${jams}
